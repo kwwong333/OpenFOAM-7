@@ -1,5 +1,5 @@
 #                            -*- mode: org; -*-
-#
+# Fork version of OpenFOAM 7.
 #+TITLE:     README for [[http://openfoam.org/download/source][OpenFOAM-7]]
 #+AUTHOR:               The OpenFOAM Foundation
 #+DATE:                     8th July 2019
